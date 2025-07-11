@@ -6,9 +6,6 @@
 
 - <b>pfSense Firewall Configuration</b>
   
-- <b>Azure IAC Terraform<b>
-
-- <b>Sentinel Configuration and Tuning</b>
 
 
 
