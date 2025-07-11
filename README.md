@@ -1,12 +1,12 @@
-## Cyber Home Lab Project
+# Cyber Home Lab Project
 
-# Overview
+## Overview
 
 This repository contains a step-by-step guide and resources for building your own **Cybersecurity Virtual Home Lab** using VirtualBox and multiple virtual machines. This environment is designed to help aspiring and practicing cybersecurity professionals safely explore, experiment, and develop their skills in a controlled setting.
 
 ---
 
-# Benefits of a Virtual Cyber Lab
+## Benefits of a Virtual Cyber Lab
 
 - Safe environment to practice cybersecurity tools and scenarios
 - Experiment with network configurations and malware analysis
@@ -16,7 +16,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# What You Can Build (Post Lab Deployment)
+## What You Can Build (Post Lab Deployment)
 
 - Segmented networks for malware detonation
 - Vulnerable web applications for ethical hacking practice
@@ -30,7 +30,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# System Requirements
+## System Requirements
 
 | Component         | Minimum Requirement |
 |:---------------- |:------------------ |
@@ -42,7 +42,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# Required Downloads
+## Required Downloads
 
 | Tool / OS              | Download Link |
 |:--------------------- |:-------------|
@@ -54,7 +54,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# Lab Setup Highlights
+## Lab Setup Highlights
 
 - Install and configure VirtualBox
 - Import Kali Linux and Windows 10 VMs
@@ -69,7 +69,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# Project Use Cases & Exercises
+## Project Use Cases & Exercises
 
 - Malware detonation in isolated network segments
 - Ethical hacking against vulnerable services
@@ -80,7 +80,7 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# Notes
+## Notes
 
 - Ensure virtualization is enabled in your system’s BIOS/UEFI settings
 - Allocate sufficient RAM and CPU cores to each virtual machine as instructed
@@ -90,19 +90,19 @@ This repository contains a step-by-step guide and resources for building your ow
 
 ---
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repository, suggest improvements, or share additional lab exercises.
 
 ---
 
-# License
+## License
 
 This project is open source under the MIT License.
 
 ---
 
-#  Acknowledgments
+##  Acknowledgments
 
 Thanks to the cybersecurity learning community for continued inspiration and knowledge sharing.
 
