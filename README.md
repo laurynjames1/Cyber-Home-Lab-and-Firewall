@@ -6,13 +6,13 @@
 
 - <b>pfSense Firewall Configuration</b>
   
-- <b>Malware Analysis</b>
+- <b>Azure IAC Terraform<b>
 
-- <b>Nmap Network Scan</b>
+- <b>Sentinel Configuration and Tuning</b>
 
-- <b>Honeypot</b>
 
-- <b>HelloWorld!<b>
+
+
 
 
 
