@@ -1,19 +1,19 @@
 # pfSense Firewall Configuration Lab
 
-# Overview
+## Overview
 
 This project is part of the **Cyber Home Lab** repository. It walks through the step-by-step process of installing and configuring a **pfSense open-source firewall appliance** inside your virtual lab environment. This lab teaches you how to deploy a firewall, manage network traffic rules, and enforce security policies between your virtual machines and the internet.
 
 ---
 
-# What is pfSense?
+## What is pfSense?
 
 A **firewall** is a network security device that monitors and filters incoming and outgoing traffic based on an organization's previously established security policies.  
 **pfSense** is one of the most widely used, free, and open-source firewall solutions in the industry.
 
 ---
 
-# Lab Features
+## Lab Features
 
 - Download and install pfSense in VirtualBox
 - Connect pfSense to your existing virtual lab network via Bridged Adapter
@@ -25,7 +25,7 @@ A **firewall** is a network security device that monitors and filters incoming a
 
 ---
 
-# Prerequisites
+## Prerequisites
 
 - **VirtualBox** installed and configured (see [Cyber Home Lab Guide](./README.md))
 - Existing virtual machines (Windows 10, Kali Linux, Metasploitable)
@@ -34,7 +34,7 @@ A **firewall** is a network security device that monitors and filters incoming a
 
 ---
 
-# Lab Setup Process
+## Lab Setup Process
 
 1. Download pfSense ISO and 7-Zip utility for file extraction
 2. Import pfSense into VirtualBox as a new virtual machine
